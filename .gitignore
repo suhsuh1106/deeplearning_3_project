@@ -1,0 +1,4 @@
+*.tar
+*.gz
+
+google_speech_recognition_v1/
